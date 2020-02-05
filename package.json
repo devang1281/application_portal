@@ -1,0 +1,17 @@
+{
+  "name": "application_portal",
+  "version": "1.0.0",
+  "description": "A project to make Job Application Portal for candidate and recruiter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "nodemon": "nodemon index.js"
+  },
+  "author": "Devang Bansal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2",
+    "pg": "^7.18.1"
+  }
+}
